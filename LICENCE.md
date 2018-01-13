@@ -1,1 +1,1 @@
-This is licensed under MIT licence.
+This code is licensed under MIT licence.
